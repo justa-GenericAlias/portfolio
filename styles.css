@@ -40,6 +40,10 @@ font-size:48px;
 margin-bottom:10px;
 }
 
+.projects-preview h2 {
+    text-align: center;
+}
+
 .featured{
 margin-top:40px;
 }
